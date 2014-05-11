@@ -25,3 +25,4 @@ doc/
 .secret
 
 Gemfile.lock
+/vendor/bundle
